@@ -22,8 +22,8 @@ odbiera dane dotyczace aktualnej pozycji robota, generuje równiez trajektorie z
 **Przykładowy wykres ominięcia trzech przeszkód - raz ze strony prawej i dwa razy z lewej:**  
 ![Screenshot](photos/wykres.PNG)  
 
-**Film ukazujący działanie w rzeczywistości: **  
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+**Film ukazujący działanie w rzeczywistości:**  
+[![Demo CountPages alpha](photos/film.mp4)](photos/film.mp4)
 
 
 
