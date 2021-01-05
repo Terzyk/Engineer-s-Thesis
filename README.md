@@ -23,7 +23,7 @@ odbiera dane dotyczace aktualnej pozycji robota, generuje równiez trajektorie z
 ![Screenshot](photos/wykres.PNG)  
 
 **Film ukazujący działanie w rzeczywistości:**  
-[![Demo CountPages alpha](photos/film.mp4)](photos/film.mp4)
+[![Film](photos/film.mp4)](photos/film.mp4)
 
 
 
