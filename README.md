@@ -18,5 +18,9 @@ odbiera dane dotyczace aktualnej pozycji robota, generuje równiez trajektorie z
 
 **Procedura ominięcia przeszkody**:  
 ![Screenshot](photos/ominiecie.PNG)  
+ 
+**Przykładowy wykres ominięcia trzech przeszkód - raz ze strony prawej i dwa razy z lewej:**  
+![Screenshot](photos/wykres.PNG)  
+
 
 
