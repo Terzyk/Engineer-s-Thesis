@@ -8,13 +8,7 @@ Tematem niniejszej pracy jest stworzenie oprogramowania dla dwukołowego robota 
 
 **Struktura programu**:
 Praca całego oprogramowania oparta jest na pieciu programach, komunikacja miedzy nimi została ukazana w formie grafu na poniższym rysunku.   
-<p align="center">
-  <img width="460" height="300" src=photos/struktura.PNG>
-</p>
- 
+![Screenshot](photos/struktura.PNG)  
 Nodelet_manager wraz z ueye_cam_nodelet odpowiedzialne sa za wysyłanie aktualnego obrazu. Image_processing pełni trzy funkcje: odbiera obraz, wykonuje funkcje zwiazane z wykryciem markera oraz wysyła współrzedne markera do programu Controller. Ten program wykorzystuje dane odebrane od programu image_processing, do poprawnego omijania przeszkód. Controller
 odbiera dane dotyczace aktualnej pozycji robota, generuje równiez trajektorie zadana oraz wyznacza aktualny sygnał sterujacy, który jest wysyłany do programu Mtracker. Program ten ma za zadanie: wysyłac sygnał sterujacy do sterowników mocy zasilajacych koła robota oraz wysyłac dane dotyczace odometrii. Całosc została podsumowana w poniższej tabeli:    
-<p align="center">
-  <img width="460" height="300" src=photos/tabela.PNG>
-</p>
- 
+![Screenshot](photos/tabela.PNG)
